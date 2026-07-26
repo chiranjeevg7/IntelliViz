@@ -21,12 +21,12 @@ The project was developed as a complete end-to-end analytics dashboard that comb
 
 ## 🚀 Live Demo
 
-🔗 **Application:** *Add your Streamlit URL here*
+🔗 **Application:** *https://intelliviz.streamlit.app/*
 
 Example:
 
 ```
-https://intelliviz-v1.streamlit.app
+https://intelliviz.streamlit.app
 ```
 
 ---
@@ -334,13 +334,13 @@ IntelliViz-v1/
 Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IntelliViz-v1.git
+git clone https://github.com/chiranjeevg7/IntelliViz.git
 ```
 
 Move into the project directory.
 
 ```bash
-cd IntelliViz-v1
+cd IntelliViz
 ```
 
 Install dependencies.
