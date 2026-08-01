@@ -33,23 +33,6 @@ https://intelliviz.streamlit.app
 
 ## 📸 Screenshots
 
-> Add screenshots inside a `screenshots/` folder.
-
-Example:
-
-```
-screenshots/
-│
-├── dashboard.png
-├── upload.png
-├── visualization.png
-├── ai_insights.png
-├── alerts.png
-└── reports.png
-```
-
-Then embed them:
-
 ```md
 ![Dashboard](screenshots/dashboard.png)
 ```
